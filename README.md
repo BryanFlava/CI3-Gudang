@@ -1,2 +1,2 @@
 # si-gudang-app
-Project 2.
+Copyright @ZeeLab's
