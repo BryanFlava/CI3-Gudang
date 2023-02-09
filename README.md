@@ -1,4 +1,4 @@
-# Aplikasi Web (Static - Dinamis) - Framework Django
+# Aplikasi SI Gudang(Sistem Informasi Gudang)
 ## _Bryan Samperura_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
